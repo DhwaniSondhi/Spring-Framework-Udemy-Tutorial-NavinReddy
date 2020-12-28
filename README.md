@@ -1,7 +1,7 @@
 # Spring-Framework-Tutorial-NavinReddy
-This repository includes the Spring framework basics learned through tutorial created by NavinReddy.
+This repository includes the Spring framework basics learned through a tutorial created by NavinReddy.
 
-### Prerequites
+### Prerequisites
 - Java 8
 - Eclipse IDE
 - GIT
